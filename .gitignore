@@ -28,3 +28,8 @@ bin/
 ### Mac OS ###
 .DS_Store
 JavaSeleniumKurs.iml
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
+out
