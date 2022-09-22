@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="komit instrukcje warunkowe + praca domowa">
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja86v2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PetlaDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PetlaFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PetlaWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tablica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="komit petle tablica i switch">
+      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja101Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja101AutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja97calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Metody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MetodyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracaDomowa/lekcja78.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracaDomowa/lekcja78.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,49 +42,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/michalbylica/Documents/Automaty/JavaSelenium/JavaSeleniumKurs/src"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/michalbylica/Documents/Automaty/JavaSelenium/JavaSeleniumKurs/src&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lekcja86v2">
-    <configuration name="PetlaDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PetlaDoWhile" />
+  <component name="RunManager" selected="Application.lekcja101AutoTest">
+    <configuration name="MetodyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetodyTest" />
       <module name="JavaSeleniumKurs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PetlaWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PetlaWhile" />
+    <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserTest" />
       <module name="JavaSeleniumKurs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tablica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tablica" />
+    <configuration name="lekcja101AutoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lekcja101AutoTest" />
       <module name="JavaSeleniumKurs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja86" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja86" />
+    <configuration name="lekcja91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lekcja91" />
       <module name="JavaSeleniumKurs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja86v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja86v2" />
+    <configuration name="lekcja97calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lekcja97calculator" />
       <module name="JavaSeleniumKurs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lekcja86v2" />
-        <item itemvalue="Application.lekcja86" />
-        <item itemvalue="Application.Tablica" />
-        <item itemvalue="Application.PetlaDoWhile" />
-        <item itemvalue="Application.PetlaWhile" />
+        <item itemvalue="Application.lekcja101AutoTest" />
+        <item itemvalue="Application.UserTest" />
+        <item itemvalue="Application.lekcja97calculator" />
+        <item itemvalue="Application.MetodyTest" />
+        <item itemvalue="Application.lekcja91" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663530548004</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="komit petle tablica i switch">
+      <created>1663594032970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663594032973</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +139,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="komit instrukcje warunkowe + praca domowa" />
-    <option name="LAST_COMMIT_MESSAGE" value="komit instrukcje warunkowe + praca domowa" />
+    <MESSAGE value="komit petle tablica i switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="komit petle tablica i switch" />
   </component>
 </project>
