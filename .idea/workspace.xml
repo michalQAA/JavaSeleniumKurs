@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit dziedziczenie, metody i klasy statyczne, poprawki kodu">
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja107AndroidApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja107App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja107AppChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja107iPhoneApp.java" afterDir="false" />
+    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit praca domowa lekcja 107, dot. dziedziczenia i konstruktorow">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footballer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footballer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lekcja107AppChecker">
+  <component name="RunManager" selected="Application.PersonTest">
     <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PersonTest" />
       <module name="JavaSeleniumKurs" />
@@ -84,8 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lekcja107AppChecker" />
         <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.lekcja107AppChecker" />
         <item itemvalue="Application.StudentChecker" />
         <item itemvalue="Application.lekcja101AutoTest" />
         <item itemvalue="Application.UserTest" />
@@ -136,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663986858391</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit praca domowa lekcja 107, dot. dziedziczenia i konstruktorow">
+      <created>1663987748506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663987748506</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +160,7 @@
     <MESSAGE value="komit metody, konstruktory i prace domowe" />
     <MESSAGE value="commit dziedziczenie, metody i klasy statyczne" />
     <MESSAGE value="commit dziedziczenie, metody i klasy statyczne, poprawki kodu" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit dziedziczenie, metody i klasy statyczne, poprawki kodu" />
+    <MESSAGE value="commit praca domowa lekcja 107, dot. dziedziczenia i konstruktorow" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit praca domowa lekcja 107, dot. dziedziczenia i konstruktorow" />
   </component>
 </project>
