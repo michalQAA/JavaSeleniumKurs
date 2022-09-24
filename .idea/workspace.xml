@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="komit petle tablica i switch">
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja101Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja101AutoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja97calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AutoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Metody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MetodyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserTest.java" afterDir="false" />
+    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="komit metody, konstruktory i prace domowe">
+      <change afterPath="$PROJECT_DIR$/src/Footballer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +49,16 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lekcja101AutoTest">
-    <configuration name="MetodyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MetodyTest" />
+  <component name="RunManager" selected="Application.PersonTest">
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonTest" />
+      <module name="JavaSeleniumKurs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentChecker" />
       <module name="JavaSeleniumKurs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,13 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja91" />
-      <module name="JavaSeleniumKurs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="lekcja97calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lekcja97calculator" />
       <module name="JavaSeleniumKurs" />
@@ -92,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.StudentChecker" />
         <item itemvalue="Application.lekcja101AutoTest" />
         <item itemvalue="Application.UserTest" />
         <item itemvalue="Application.lekcja97calculator" />
-        <item itemvalue="Application.MetodyTest" />
-        <item itemvalue="Application.lekcja91" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663594032973</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="komit metody, konstruktory i prace domowe">
+      <created>1663869131761</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663869131761</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="komit instrukcje warunkowe + praca domowa" />
     <MESSAGE value="komit petle tablica i switch" />
-    <option name="LAST_COMMIT_MESSAGE" value="komit petle tablica i switch" />
+    <MESSAGE value="komit metody, konstruktory i prace domowe" />
+    <option name="LAST_COMMIT_MESSAGE" value="komit metody, konstruktory i prace domowe" />
   </component>
 </project>

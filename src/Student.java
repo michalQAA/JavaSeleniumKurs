@@ -5,6 +5,7 @@ public class Student {
     public String nick;
     public String email;
     public int numerIndeksu;
+    public static String nazwaUczelni = "SGH";
 
     public void przedstawSie() {
         System.out.println("Nazywam sie " + imie + " " + nazwisko);
@@ -19,5 +20,9 @@ public class Student {
     }
         public void podajNrIndeksu () {
         System.out.println("Moj indeks to " + numerIndeksu);
+    }
+
+    public static void infoUczelnia() {
+        System.out.println("Moja uczelnia to " + nazwaUczelni);
     }
 }
