@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit dziedziczenie, metody i klasy statyczne">
-      <change beforePath="$PROJECT_DIR$/src/Footballer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footballer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit dziedziczenie, metody i klasy statyczne, poprawki kodu">
+      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja107AndroidApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja107App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja107AppChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja107iPhoneApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +46,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PersonTest">
+  <component name="RunManager" selected="Application.lekcja107AppChecker">
     <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PersonTest" />
       <module name="JavaSeleniumKurs" />
@@ -72,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja97calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja97calculator" />
+    <configuration name="lekcja107AppChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lekcja107AppChecker" />
       <module name="JavaSeleniumKurs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lekcja107AppChecker" />
         <item itemvalue="Application.PersonTest" />
         <item itemvalue="Application.StudentChecker" />
         <item itemvalue="Application.lekcja101AutoTest" />
         <item itemvalue="Application.UserTest" />
-        <item itemvalue="Application.lekcja97calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663986423551</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit dziedziczenie, metody i klasy statyczne, poprawki kodu">
+      <created>1663986858391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663986858391</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +155,7 @@
     <MESSAGE value="komit petle tablica i switch" />
     <MESSAGE value="komit metody, konstruktory i prace domowe" />
     <MESSAGE value="commit dziedziczenie, metody i klasy statyczne" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit dziedziczenie, metody i klasy statyczne" />
+    <MESSAGE value="commit dziedziczenie, metody i klasy statyczne, poprawki kodu" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit dziedziczenie, metody i klasy statyczne, poprawki kodu" />
   </component>
 </project>
