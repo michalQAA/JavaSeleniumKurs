@@ -1,16 +1,11 @@
 public class PersonTest {
     public static void main(String[] args) {
-        MathTeacher teacher = new MathTeacher();
-        teacher.name = "Andrzej";
-        teacher.age = 29;
-        teacher.school = "WAT";
+        MathTeacher teacher = new MathTeacher("Andrzej", 29, "WAT");
         teacher.walk();
         teacher.eat();
         teacher.sayHello();
 
-        Footballer footballer = new Footballer();
-        footballer.name = "Jacek";
-        footballer.age = 18;
+        Footballer footballer = new Footballer("Jacek", 18, "Sunderland");
         footballer.walk();
         footballer.eat();
         footballer.playFootball();
