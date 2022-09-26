@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit przeciazanie metod (overloading)">
-      <change afterPath="$PROJECT_DIR$/src/com/testeroprogramowania/app/database/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testeroprogramowania/app/database/DatabaseUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testeroprogramowania/app/view/AccountView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testeroprogramowania/app/view/HomePageView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/identifiers/first/Parent.java" afterDir="false" />
+    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit modyfikatory dostepu, paczki">
+      <change afterPath="$PROJECT_DIR$/src/ReadOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/identifiers/first/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/identifiers/second/Random.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663989026928</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit modyfikatory dostepu, paczki">
+      <created>1664108694689</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664108694690</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +186,7 @@
     <MESSAGE value="commit praca domowa lekcja 107, dot. dziedziczenia i konstruktorow" />
     <MESSAGE value="commit nadpisywanie metod na przykladzie footballer i MathTeacher" />
     <MESSAGE value="commit przeciazanie metod (overloading)" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit przeciazanie metod (overloading)" />
+    <MESSAGE value="commit modyfikatory dostepu, paczki" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit modyfikatory dostepu, paczki" />
   </component>
 </project>
