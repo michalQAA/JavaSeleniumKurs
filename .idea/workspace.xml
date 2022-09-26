@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit modyfikatory dostepu, paczki">
-      <change afterPath="$PROJECT_DIR$/src/ReadOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/identifiers/first/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/identifiers/second/Random.java" afterDir="false" />
+    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit getter i setter">
+      <change afterPath="$PROJECT_DIR$/src/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -163,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664108694690</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit getter i setter">
+      <created>1664169885783</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664169885786</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +196,7 @@
     <MESSAGE value="commit nadpisywanie metod na przykladzie footballer i MathTeacher" />
     <MESSAGE value="commit przeciazanie metod (overloading)" />
     <MESSAGE value="commit modyfikatory dostepu, paczki" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit modyfikatory dostepu, paczki" />
+    <MESSAGE value="commit getter i setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit getter i setter" />
   </component>
 </project>
