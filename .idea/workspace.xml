@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit interfejs i implementacja">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja117interfaceChromeDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja117interfaceFirefoxDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja117interfaceWebDriver.java" afterDir="false" />
+    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit interfejs i implementacja praca domowa">
+      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja117/WebDriverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracaDomowa/lekcja117interfaceChromeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracaDomowa/lekcja117/ChromeDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracaDomowa/lekcja117interfaceFirefoxDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracaDomowa/lekcja117/FirefoxDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracaDomowa/lekcja117interfaceWebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracaDomowa/lekcja117/WebDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/identifiers/first/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/identifiers/first/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/identifiers/first/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/identifiers/first/Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/identifiers/second/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/identifiers/second/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/identifiers/second/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/identifiers/second/Random.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PersonTest">
+  <component name="RunManager" selected="Application.WebDriverTest">
     <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PersonTest" />
       <module name="JavaSeleniumKurs" />
@@ -62,9 +67,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UserTest" />
+    <configuration name="WebDriverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lekcja117.WebDriverTest" />
       <module name="JavaSeleniumKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lekcja117.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WebDriverTest" />
         <item itemvalue="Application.PersonTest" />
         <item itemvalue="Application.lekcja107AppChecker" />
         <item itemvalue="Application.StudentChecker" />
         <item itemvalue="Application.lekcja101AutoTest" />
-        <item itemvalue="Application.UserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664209490050</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit interfejs i implementacja praca domowa">
+      <created>1664209821233</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664209821234</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +223,7 @@
     <MESSAGE value="commit modyfikatory dostepu, paczki" />
     <MESSAGE value="commit getter i setter" />
     <MESSAGE value="commit interfejs i implementacja" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit interfejs i implementacja" />
+    <MESSAGE value="commit interfejs i implementacja praca domowa" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit interfejs i implementacja praca domowa" />
   </component>
 </project>

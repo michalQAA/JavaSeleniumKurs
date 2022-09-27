@@ -1,4 +1,6 @@
-public class lekcja117interfaceFirefoxDriver implements lekcja117interfaceWebDriver{
+package lekcja117;
+
+public class FirefoxDriver implements WebDriver {
     @Override
     public void get() {
         System.out.println("Otwieram przegladarke Firefox");

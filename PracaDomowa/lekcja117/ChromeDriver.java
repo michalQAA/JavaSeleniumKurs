@@ -1,4 +1,6 @@
-public class lekcja117interfaceChromeDriver implements lekcja117interfaceWebDriver{
+package lekcja117;
+
+public class ChromeDriver implements WebDriver {
 
     @Override
     public void get() {
