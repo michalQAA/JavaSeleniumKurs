@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit webdrivery praca domowa">
-      <change afterPath="$PROJECT_DIR$/src/docs/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/DocumentChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/ExcelDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/docs/PdfDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/document/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/document/DocumentChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/document/ExcelDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/document/PdfDocument.java" afterDir="false" />
+    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit polimorfizm">
+      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja117/WebDriverTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +45,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.docs.DocumentChecker">
+  <component name="RunManager" selected="Application.WebDriverTest2">
     <configuration name="DocumentChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="document.DocumentChecker" />
       <module name="JavaSeleniumKurs" />
@@ -86,6 +79,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebDriverTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lekcja117.WebDriverTest2" />
+      <module name="JavaSeleniumKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lekcja117.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="docs.DocumentChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="docs.DocumentChecker" />
       <module name="JavaSeleniumKurs" />
@@ -99,20 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lekcja107AppChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja107AppChecker" />
-      <module name="JavaSeleniumKurs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WebDriverTest2" />
         <item itemvalue="Application.docs.DocumentChecker" />
         <item itemvalue="Application.DocumentChecker" />
         <item itemvalue="Application.WebDriverTest" />
         <item itemvalue="Application.PersonTest" />
-        <item itemvalue="Application.lekcja107AppChecker" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664317811012</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="commit polimorfizm">
+      <created>1664318596799</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1664318596801</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,6 +250,7 @@
     <MESSAGE value="commit interfejs i implementacja" />
     <MESSAGE value="commit interfejs i implementacja praca domowa" />
     <MESSAGE value="commit webdrivery praca domowa" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit webdrivery praca domowa" />
+    <MESSAGE value="commit polimorfizm" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit polimorfizm" />
   </component>
 </project>
