@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit klasa abstrakcyjna">
-      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja117/NoValidBrowserName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckedExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversionCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/text.txt" afterDir="false" />
+    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit wyjatki i obsluga wyjatkow">
+      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja127/ExceptionsCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracaDomowa/lekcja127/InvalidAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Files/CreateFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracaDomowa/lekcja117/WebDriverTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracaDomowa/lekcja117/WebDriverTest2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +48,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WebDriverTest2">
-    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Animals.AnimalTest" />
-      <module name="JavaSeleniumKurs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Animals.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WriteToFile">
     <configuration name="CheckedExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckedExceptions" />
       <module name="JavaSeleniumKurs" />
@@ -70,16 +56,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversionCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConversionCasting" />
+    <configuration name="CreateFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="files.CreateFile" />
       <module name="JavaSeleniumKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionsExample" />
+    <configuration name="ExceptionsCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lekcja127.ExceptionsCheck" />
       <module name="JavaSeleniumKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lekcja127.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="files.WriteToFile" />
+      <module name="JavaSeleniumKurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WriteToFile" />
+        <item itemvalue="Application.files.CreateFile" />
+        <item itemvalue="Application.ExceptionsCheck" />
         <item itemvalue="Application.WebDriverTest2" />
         <item itemvalue="Application.CheckedExceptions" />
-        <item itemvalue="Application.ExceptionsExample" />
-        <item itemvalue="Application.ConversionCasting" />
-        <item itemvalue="Application.AnimalTest" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664381548156</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="commit wyjatki i obsluga wyjatkow">
+      <created>1664397257715</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1664397257715</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +277,7 @@
     <MESSAGE value="commit polimorfizm" />
     <MESSAGE value="commit webdriver 2" />
     <MESSAGE value="commit klasa abstrakcyjna" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit klasa abstrakcyjna" />
+    <MESSAGE value="commit wyjatki i obsluga wyjatkow" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit wyjatki i obsluga wyjatkow" />
   </component>
 </project>
