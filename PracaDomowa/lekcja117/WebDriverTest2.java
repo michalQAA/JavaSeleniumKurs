@@ -9,11 +9,16 @@ public class WebDriverTest2 {
     }
 
     private static WebDriver getDriver(String name) throws NoValidBrowserName {
-        if(name.equals("chrome")) {
+        if (name.equals("chrome")) {
             return new ChromeDriver();
         } else if (name.equals("firefox")) {
             return new FirefoxDriver();
         }
-     throw new NoValidBrowserName("No valid browser name.");
+        try {
+            throw new NoValidBrowserName("No valid browser name.");
+        } catch (NoValidBrowserName noValidBrowserName) {
+            noValidBrowserName.printStackTrace();
+        }
+        return null;
     }
 }
