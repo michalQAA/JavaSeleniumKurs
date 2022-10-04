@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit tworzenie pliku i nadpisywanie pliku">
-      <change afterPath="$PROJECT_DIR$/src/files/ReadFile.java" afterDir="false" />
+    <list default="true" id="cf2e4324-4be4-4375-9260-01953fb305a0" name="Changes" comment="commit czytanie i usuwanie pliku">
+      <change afterPath="$PROJECT_DIR$/src/listy/ListyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mapy/MapyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sety/SetyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania/Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania/ZliczanieWystapien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +50,13 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeleteFile">
-    <configuration name="CreateFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.CreateFile" />
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania.Fibonacci" />
       <module name="JavaSeleniumKurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.*" />
+          <option name="PATTERN" value="zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.DeleteFile" />
+    <configuration name="MapyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapy.MapyTest" />
       <module name="JavaSeleniumKurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.*" />
+          <option name="PATTERN" value="mapy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionsCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja127.ExceptionsCheck" />
+    <configuration name="Palindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania.Palindrom" />
       <module name="JavaSeleniumKurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lekcja127.*" />
+          <option name="PATTERN" value="zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.ReadFile" />
+    <configuration name="SetyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sety.SetyTest" />
       <module name="JavaSeleniumKurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.*" />
+          <option name="PATTERN" value="sety.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.WriteToFile" />
+    <configuration name="ZliczanieWystapien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania.ZliczanieWystapien" />
       <module name="JavaSeleniumKurs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.*" />
+          <option name="PATTERN" value="zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeleteFile" />
-        <item itemvalue="Application.ReadFile" />
-        <item itemvalue="Application.WriteToFile" />
-        <item itemvalue="Application.files.CreateFile" />
-        <item itemvalue="Application.ExceptionsCheck" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.Palindrom" />
+        <item itemvalue="Application.ZliczanieWystapien" />
+        <item itemvalue="Application.MapyTest" />
+        <item itemvalue="Application.SetyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664484265662</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="commit czytanie i usuwanie pliku">
+      <created>1664484546100</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1664484546101</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,6 +309,7 @@
     <MESSAGE value="commit wyjatki i obsluga wyjatkow" />
     <MESSAGE value="commit wyjatki praca domowa" />
     <MESSAGE value="commit tworzenie pliku i nadpisywanie pliku" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit tworzenie pliku i nadpisywanie pliku" />
+    <MESSAGE value="commit czytanie i usuwanie pliku" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit czytanie i usuwanie pliku" />
   </component>
 </project>
